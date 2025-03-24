@@ -3,7 +3,7 @@ package com.driver;
 public class F1 extends Car {
 
     public F1(String name, boolean isManual) {
-        super(name,4,4,6,isManual,"F1",1);
+        super(name,4,4,6,isManual,"racing",1);
         //Car(String name, int wheels, int doors, int gears, boolean isManual, String type, int seats)
     }
 
